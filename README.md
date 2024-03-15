@@ -19,7 +19,7 @@ The goal of this assignment is to reinforce your understanding of TypeScript by 
 
 3. **Install Dependencies**:
    ```
-   install node.js from [site](https://nodejs.org/en)
+   install node.js
    npm install -g typescript
    ```
 
