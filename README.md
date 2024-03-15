@@ -1,5 +1,3 @@
-Certainly! Here's the README file in Markdown format that you can directly paste into your project repository:
-
 # Getting Started with TypeScript
 
 ## Overview
