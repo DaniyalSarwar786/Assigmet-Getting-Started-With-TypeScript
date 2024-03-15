@@ -36,7 +36,7 @@ The goal of this assignment is to reinforce your understanding of TypeScript by 
 - Node.js (for running exercises)
 
 ## Author
-- Your Name Daniyal Sarwar
+- Daniyal Sarwar
 
 ## Contributing
 Please feel free to submit pull requests or report issues.
