@@ -19,14 +19,16 @@ The goal of this assignment is to reinforce your understanding of TypeScript by 
    cd learn-typescript/NODE_PROJECTS/getting-started-exercises
    ```
 
-3. **Install Dependencies (if any)**:
+3. **Install Dependencies**:
    ```
-   npm install
+   install node
+   npm install -g typescript
    ```
 
 4. **Run the Exercises**:
    ```
-   npm start
+   tsc main.ts
+   node main.js
    ```
 
 ## Technologies Used
@@ -37,4 +39,4 @@ The goal of this assignment is to reinforce your understanding of TypeScript by 
 - Your Name Daniyal Sarwar
 
 ## Contributing
-Feel free to contribute by submitting pull requests or reporting issues.
+Please feel free to submit pull requests or report issues.
